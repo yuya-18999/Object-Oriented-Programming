@@ -1,3 +1,5 @@
 # test
 hello
-good byeS
+good bye
+yes
+no
