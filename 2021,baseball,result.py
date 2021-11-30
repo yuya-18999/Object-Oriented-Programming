@@ -1,6 +1,7 @@
 from baseball import Baseball
 
 B = Baseball
+print("hello world!!")
 
 y = B('ヤクルト', 143, 73, 52, 18)
 ha = B('阪神', 143, 77, 56, 10)
